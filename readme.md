@@ -1,2 +1,2 @@
 Calculator<br>
-<img width="958" alt="p5" src="sample.png">
+<img width="958" alt="sample" src="sample.png">
